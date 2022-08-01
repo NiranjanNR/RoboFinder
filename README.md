@@ -1,4 +1,4 @@
-##Find Your Robo
+# Find Your Robo
 
 This app was developed to learn the react fundamentals by following a tutorials.
 This was one of my first projects so I had to mimic the tutorial, so that I could atleast learn some of the basics.
